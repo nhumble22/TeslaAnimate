@@ -7,7 +7,7 @@
 <p align="center">Control opacity, transformX, transformY, and sequential animation</p>
 
 <blockquote align="center">
-  Vanilla JS | No dependencies | Prefixes included | IE9+ | 4kb
+  Vanilla JS | No dependencies | Prefixes included | IE9+ | 4kb | <a href="https://codepen.io/NicholasDavid/pen/dLrbVM" target="_blank">Demo</a>
 </blockquote>
 
 ## Getting started
