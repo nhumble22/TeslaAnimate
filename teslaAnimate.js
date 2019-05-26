@@ -67,37 +67,12 @@ function teslaAnimate(params = {}) {
 // LIBRARY END // 
 
 // Default parameters 
-teslaAnimate({
-  target: "h1 span",
-  transitionTime: 0.5,
-  delay: 1,
-  delayIncrement: 0.1,
-  translateX: "0",
-  translateY: "15px",
-  timingFunction: "cubic-bezier(0.25, 0.1, 0.25, 1.0)"
-});  
-teslaAnimate({
-  target: "h6",
-  delay: 2.5,
-  transitionTime: 1,
-  translateY: "30px"
-}); 
-teslaAnimate({
-  target: "h6 + p",
-  delay: 3,
-  transitionTime: 1,
-  translateY: "30px"
-}); 
-teslaAnimate({
-  target: ".badge",
-  delay: 4,
-  delayIncrement: 0.2,
-  translateX: "-20px",
-  translateY: "20px"
-});   
-teslaAnimate({
-  target: ".card",
-  delay: 3.5,
-  transitionTime: 1,
-  translateY: "15px"
-});
+// teslaAnimate({
+//   target: "h1 span",
+//   transitionTime: 0.5,
+//   delay: 1,
+//   delayIncrement: 0.1,
+//   translateX: "0",
+//   translateY: "15px",
+//   timingFunction: "cubic-bezier(0.25, 0.1, 0.25, 1.0)"
+// });  
